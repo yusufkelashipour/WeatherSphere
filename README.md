@@ -13,3 +13,5 @@ CSS: Styling for a visually appealing and responsive design.
 JavaScript: Dynamic functionality and data handling.
 React: UI components and state management.
 Weather API: Real-time data fetching for weather information.
+
+Yusuf Kelashipour 2024.
