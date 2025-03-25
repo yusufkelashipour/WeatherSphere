@@ -14,4 +14,4 @@ JavaScript: Dynamic functionality and data handling.
 React: UI components and state management.
 Weather API: Real-time data fetching for weather information.
 
-Yusuf Kelashipour 2024
+Yusuf Kelashipour 2024.
